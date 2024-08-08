@@ -1,0 +1,7 @@
+-> Prompt para criar o conteúdo do pôster no Copilot:
+Crie um pôster para um evento de inteligência artificial que ocorrerá no dia 08-08-2024 às 18 hrs que será transmitido no Youtube pelo canal IA Dev. O tema da live será A utilização de IAs Generativas e Copilots no mundo da programação. O público alvo são programadores juniors.
+O pôster deverá informar onde será transmitido e a data. Parafrasea uma frase legal sobre Inteligência Artificial. Seja criativo na hora de criar esse pôster, coloque elementos nerds e elementos de IA e deixe o pôster bem chamativo.
+
+
+-> Prompt para criar imagens no Copilot:
+crie uma imagem de desenvolvedores usando inteligência artificial com super poderes. O cenário deverá ser nerd e com elementos da cultura nerd e com referência a inteligência artificial.
